@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ubuntu: Ubuntu;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-turquoise: #0cdac3;
+  --color-darkblue: #0033cc;
+  --color-gray-100: #888;
+  --color-dimgray: #626262;
+  --color-gainsboro: #ddd;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+}
